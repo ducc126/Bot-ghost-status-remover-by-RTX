@@ -37,7 +37,7 @@ app.listen(port, () => {
 
 
 const statusMessages = ["Listening to Spotify","Watching YouTube"];
-
+const statusMessages = ["Learning Geography","Develop Bot by trisonse"];
 
 let currentIndex = 0;
 const channelId = '';
