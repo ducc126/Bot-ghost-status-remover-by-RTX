@@ -31,12 +31,12 @@ app.get('/', (req, res) => {
   res.send('YaY Your Bot Status Changed✨');
 });
 app.listen(port, () => {
-  console.log(`🔗 Listening to RTX: http://localhost:${port}`);
-  console.log(`🔗 Powered By RTX`);
+  console.log(`🔗 Listening to Duc: http://localhost:${port}`);
+  console.log(`🔗 Powered By Duc`);
 });
 
 
-const statusMessages = ["Listening to Spotify","Watching YouTube"];
+const statusMessages = ["Listening to Spotify","Watching YouTube","I'm Duc];
 
 
 let currentIndex = 0;
