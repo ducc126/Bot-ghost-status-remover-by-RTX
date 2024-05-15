@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["PLAYING","MUSIC"];
+const statusMessages = ["Đang hôn chôm chôm","Đang ngủ với chôm chôm","Đang xem phim với chôm chôm","Đang giận chôm chôm","Đang đút chôm chôm ăn","Đang tắm với chôm chôm"];
 
 
 let currentIndex = 0;
