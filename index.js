@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["PLAYING","MUSIC"];
+const statusMessages = ["Đang hôn chôm chôm","Đang ngủ với chôm chôm","Đang xem phim với chôm chôm","Đang giận chôm chôm","Đang đút chôm chôm ăn","Đang tắm với chôm chôm"];
 
 
 let currentIndex = 0;
@@ -60,7 +60,7 @@ async function login() {
  ██║░░██║░░░██║░░░██╔╝╚██╗          
  ╚═╝░░╚═╝░░░╚═╝░░░╚═╝░░╚═╝          
 GIT : https://github.com/RTX-GAMINGG/Bot-ghost-status-remover-by-RTX
-  DISCORD SERVER : https://discord.gg/FUEHs7RCqz
+  DISCORD SERVER : https://discord.gg/tsechoice
   YOUTUBE : https://www.youtube.com/channel/UCPbAvYWBgnYhliJa1BIrv0A
  * **********************************************
  *   Code by RTX GAMING
