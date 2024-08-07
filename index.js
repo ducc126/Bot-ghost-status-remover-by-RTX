@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Đang học Địa Lí cùng chôm chôm"];
+const statusMessages = ["Đang ngủ cùng chôm chôm"];
 
 let currentIndex = 0;
 const channelId = '';
